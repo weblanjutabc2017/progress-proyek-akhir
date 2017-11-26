@@ -21,7 +21,8 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell">
-							<h1 class="text-center">LOADING........</h1>
+							<h1 class="text-center">DATA PENDUDUK</h1>
+							<p>Ini adalah daftar penduduk di padukuhan ....</p>
 						</div>
 					</div>
 				</div>
